@@ -2,6 +2,7 @@
   "name": "test_lesson16",
   "version": "1.0.0",
   "description": "To Do List",
+  "private": true,
   "homepage": "https://neyonse.github.io/test_lesson16",
   "scripts": {
     "build": "npx webpack --config webpack.config.js",
